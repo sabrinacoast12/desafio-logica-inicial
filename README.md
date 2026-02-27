@@ -2,7 +2,7 @@
 
 Este repositório registra o meu primeiro contato prático com os pilares da programação. O objetivo é utilizar conceitos básicos para classificar um herói com base em sua experiência (XP).
 
-## 🧠 Conceitos Aplicados
+## 🧠 Conceitos:
 Durante o desenvolvimento, apliquei os seguintes fundamentos:
 * **Variáveis**: Para armazenar o nome e o XP do herói (let)
 * **Operadores de Comparação**: Para verificar as faixas de XP. (menor, maior oi maior ou igual a)
@@ -21,7 +21,7 @@ Durante o desenvolvimento, apliquei os seguintes fundamentos:
 | 9.001 a 10.000 | Imortal |
 | Maior ou igual a 10.001 | Radiante |
 
-## 💬 Saída Esperada
+## 💬 Saída (mensagem final):
 O programa exibe a mensagem final: 
 `"O Herói de nome {nome} está no nível de {nivel}"`
 
