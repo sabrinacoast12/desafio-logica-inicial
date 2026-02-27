@@ -1,4 +1,4 @@
-# 🦸‍♂️ Desafio: Classificador de Nível de Herói - Desafio da Dio.me
+# Desafio: Classificador de Nível de Herói - Desafio da Dio.me
 
 Este repositório registra o meu primeiro contato prático com os pilares da programação. O objetivo é utilizar conceitos básicos para classificar um herói com base em sua experiência (XP).
 
